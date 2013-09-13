@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="divider">#EDEDED</color>
+    <color name="login_text">#ffffff</color>
+    <color name="authorize_dialog_text">#000000</color>
+    
+</resources>
